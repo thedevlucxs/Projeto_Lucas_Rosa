@@ -23,6 +23,7 @@ public: // Membros públicos
     // Métodos solicitados
     void MA1();
     void MA2();
+    void MA3(); 
 };
 
 #endif // A_H
