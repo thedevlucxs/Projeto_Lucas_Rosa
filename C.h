@@ -13,9 +13,9 @@ public: // Tornando público para seguir o exemplo Java, mas considere private/g
     // Métodos (Declarações)
     void MC1();
     void MC2();
+    void MC3();
 
-    // Opcional: Declaração de um construtor, se necessário
-    // C();
+    
 };
 
 #endif // C_H // Include guard - Fim
