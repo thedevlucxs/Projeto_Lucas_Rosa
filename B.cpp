@@ -1,7 +1,6 @@
 // B.cpp - Implementação da Classe B
 #include "B.h"
 #include <iostream>
-
 // Implementação dos Construtores
 B::B() : b1(0), b2(0.0f) {}
 
@@ -32,4 +31,8 @@ void B::MB1() {
 
 void B::MB2() {
     std::cout << "Executando MB2 da Classe B" << std::endl;
+}
+
+void B::MB3() {
+    std::cout << "MB3" << std::endl;
 }
