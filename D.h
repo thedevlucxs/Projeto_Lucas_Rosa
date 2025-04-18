@@ -16,6 +16,7 @@ public: // Mantendo público para consistência com os exemplos anteriores
     // Métodos (Declarações)
     void MD1();                          // Método simples
     bool MD2(int valorEntrada);          // Método que recebe um int e retorna um bool
+    void MD4();
 
     // Construtor (opcional, não solicitado, mas bom ter)
     D();
