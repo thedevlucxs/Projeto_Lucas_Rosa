@@ -34,3 +34,7 @@ bool D::MD2(int valorEntrada) {
         return false;
     }
 }
+void D::MD3() {
+    // Imprime o nome do método na tela
+    std::cout << "MD3" << std::endl;
+}
